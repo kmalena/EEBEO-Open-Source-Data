@@ -1,2 +1,2 @@
-# EEBEO-Open-Sorce-Data
+# EEBEO-Open-Source-Data
 Repo for the Open Source Exchange within the VIP+ project EEBEO (Decentralised Embedded Real-Time Observer for Microscopic Traffic Condition Estimation)
